@@ -1,0 +1,6 @@
+langchain-openai==0.0.2
+langgraph==0.0.15
+langhub==0.0.4
+psycopg2-binary~=2.9.9
+streamlit~=1.29.0
+Unidecode~=1.3.7
