@@ -1,2 +1,2 @@
-# langchain
+# LangChain
 Leveraging langchain framework to implement marketing analytics case studies
